@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [(she/her/hers)](https://pronouns.org/she-her). emilyn98@usc.edu 
+subtitle: emilyn98@usc.edu 
 
 profile:
   align: right
