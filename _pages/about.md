@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>research, teach, explore </p> <span style="color: #efcc00;">| |</span>
+    <p>research, teach, explore </p> 
 
 
 news: true  # includes a list of news items
