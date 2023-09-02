@@ -16,7 +16,7 @@ module Jekyll
           body = converter.convert(super(context))
           "<details><summary>#{caption}</summary>#{body}</details>"
         end
-  
+        
       end
     end
   end
