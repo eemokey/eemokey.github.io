@@ -2,17 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: emilyn98@usc.edu 
+subtitle: [(she/her/hers)](https://pronouns.org/she-her). emilyn98@usc.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <span style="color: #efcc00;">            __ __</span>
-    <p>she/her/hers</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p> 
+    <p>research, teach, explore </p> <span style="color: #efcc00;">| |</span>
+
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
