@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /https://eemokey.github.io/assets/pdf/example_pdf.pdf/
+permalink: /assets/pdf/ENguyen_CV_pdf.pdf/
 title: cv
 nav: true
 nav_order: 4
