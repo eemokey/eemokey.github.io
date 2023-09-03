@@ -2,8 +2,10 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: false
+nav: true
 nav_order: 4
-cv_pdf: ENguyen_CV_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: 
+description: [CV](https://eemokey.github.io/assets/pdf/ENguyen_CV_pdf.pdf)
+
+[CV] of academic lowlights(https://eemokey.github.io/assets/pdf/ENguyen_CV_pdf.pdf)
 ---
