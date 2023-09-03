@@ -22,3 +22,5 @@ Hi! I'm a 2nd year PhD student at the [Melady Lab](https://melady.usc.edu/) in t
 Currently doing research on machine learning for data with special structure, such as time series, with applications to healthcare, climate science, and computational neuroscience. 
 
 Prior to USC, I studied [computer science](https://eecs.berkeley.edu/academics/undergraduate/cs-ba) at [UC Berkeley](https://www.berkeley.edu/) and was an undergraduate researcher at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) and [UCSF](https://www.ucsf.edu/). My co-advisors were Professors [Kristofer Bouchard](https://bouchardlab.lbl.gov/) and [Roy Ben-Shalom](https://roybens.faculty.ucdavis.edu/). 
+
+[CV](https://eemokey.github.io/assets/pdf/ENguyen_CV_pdf.pdf)
