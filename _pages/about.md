@@ -22,3 +22,6 @@ Hello, I'm Emily. I am a 2nd year PhD student at the [Melady Lab](https://melady
 Currently, I spend time doing research on machine learning for data with special structure, such as time series, with applications to health, healthcare, and environmental science. I also enjoy figure skating, flower arranging, and sunset walks around campus.
 
 Prior to USC, I studied [computer science](https://eecs.berkeley.edu/academics/undergraduate/cs-ba) with an emphasis in computational neuroscience at [UC Berkeley](https://www.berkeley.edu/) and was an undergraduate researcher at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) and [UCSF](https://www.ucsf.edu/). My co-advisors were Professors [Kristofer Bouchard](https://bouchardlab.lbl.gov/) and [Roy Ben-Shalom](https://roybens.faculty.ucdavis.edu/). 
+
+
+I welcome all efforts to [get in touch with me](https://eemokey.github.io/contact/).

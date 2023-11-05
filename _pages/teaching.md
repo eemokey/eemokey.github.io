@@ -1,14 +1,12 @@
 ---
 layout: page
-permalink: /contact/
-title: Contact
-description: Contact page. 
+permalink: /teaching/
+title: Teaching
+description: Materials for courses. 
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
-emilyn98@usc.edu
-emilysk8nguyen@berkeley.edu
-
+Currently Under Construction :) 
 
 
