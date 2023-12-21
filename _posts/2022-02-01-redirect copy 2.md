@@ -4,6 +4,9 @@ title: a post with redirect
 date: 2022-02-01 17:39:00
 description: you can also redirect to assets like pdf
 redirect: /assets/pdf/example_pdf.pdf
+tags: comments
+categories: sample-posts external-services
+related_posts: true
 featured: false
 ---
 
