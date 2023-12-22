@@ -5,7 +5,7 @@ date: 2022-03-05 17:39:00
 description: 
 redirect: /assets/pdf/Blog_Post_research_opportunities.pdf
 tags: undergrad
-categories: research USC UC Berkeley
+categories: research USC UC_Berkeley
 related_posts: true
 featured: false
 ---

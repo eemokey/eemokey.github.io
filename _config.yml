@@ -266,7 +266,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['OURS', 'GRFP', 'undergrad', 'graduate'] # these tags will be displayed on the front page of your blog
-display_categories: ['research','USC', 'UC Berkeley', 'figure skating','photography'] # these categories will be displayed on the front page of your blog
+display_categories: ['research','USC', 'UC_Berkeley', 'figure_skating','photography'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
