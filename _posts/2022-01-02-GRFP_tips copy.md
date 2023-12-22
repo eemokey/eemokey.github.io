@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NSF GRFP - Tips & Best Practices [Part 2]
-date: 2023-04-26 17:39:00
+title: NSF GRFP - My Application [Part 3]
+date: 2023-04-27 17:39:00
 description: 
-redirect: /assets/pdf/Blog_Post_NSF_GRFP_tips.pdf
+redirect: /assets/pdf/Blog_Post_NSF_GRFP_my_application.pdf
 tags: GRFP graduate
 categories: research USC
 related_posts: true
