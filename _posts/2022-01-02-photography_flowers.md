@@ -10,4 +10,4 @@ related_posts: true
 featured: false
 ---
 
-https://eemokey.github.io/assets/pdf/Blog_Post_flowers.pdf
+A post with a redirect.
