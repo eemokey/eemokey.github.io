@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Miscellaneous Figure Skating Videos & Pictures 
+title: Skate by the Sea 
 date: 2023-10-31 17:39:00
 description: 
 redirect: /assets/pdf/Blog_Post_figure_skating.pdf
