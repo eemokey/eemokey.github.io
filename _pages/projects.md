@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /projects/
+permalink: /projects2/
 title: Projects
 description: Materials
 nav: true
