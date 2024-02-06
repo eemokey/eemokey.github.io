@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 description:  
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 **Contact Information**
 
