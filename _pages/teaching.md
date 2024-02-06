@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
-description: Materials for courses. 
+permalink: /projects/
+title: Projects
+description: Materials
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 Currently Under Construction :) 
