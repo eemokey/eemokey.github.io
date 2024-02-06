@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /projects/
+permalink: /teaching/
 description: A growing collection of course materials
 nav: true
 nav_order: 3
