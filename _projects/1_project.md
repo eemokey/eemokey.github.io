@@ -15,7 +15,7 @@ This page contains my whiteboard and chalkboard review matieral of each module's
 
  Highlights can be found below (in the order of how sore my writing arm was after).
  
- Full review material can be found in my linked google drive <a href="https://getbootstrap.com/docs/4.4/layout/grid/">here</a>.
+ All of my review materials can be found in my linked google drive <a href="https://getbootstrap.com/docs/4.4/layout/grid/">here</a>.
 
 
 <div class="row">
