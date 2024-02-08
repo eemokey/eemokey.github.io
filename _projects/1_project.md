@@ -9,13 +9,15 @@ category: Student
 
 I was a student in MCB 50: The Immune System and Disease in Spring 2019. 
 
-My favorite non-CS class.
+My favorite non-CS class
 
-This page contains my whiteboard and chalkboard review matieral of each module's concepts for study group (when we were actually studying).
+This page contains my whiteboard and chalkboard review matieral of each module's concepts.
 
- Highlights can be found below (in the order of how sore my writing arm was after).
+Highlights can be found below
  
- All of my review materials can be found in this linked google drive <a href="https://getbootstrap.com/docs/4.4/layout/grid/">here</a>.
+See all review materials in this linked google drive <a href="https://getbootstrap.com/docs/4.4/layout/grid/">here</a>.
+
+Note: These materials were created to practice my board writing skills, taking advantage of available boards during study hangouts (when we were actually studying). I've learned the best free chalk can be found in Wheeler 
 
 
 <div class="row">
