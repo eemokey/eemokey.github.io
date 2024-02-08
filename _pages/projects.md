@@ -1,10 +1,12 @@
 ---
 layout: page
-permalink: /projects2/
-title: Projects
-description: Materials
+permalink: /projects/
+title: Teaching
+description: A growing collection of course materials
 nav: true
-nav_order: 4
+nav_order: 3
+display_categories: [Course Staff, Student]
+horizontal: false
 ---
 
 Currently Under Construction :) 

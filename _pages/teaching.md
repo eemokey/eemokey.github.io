@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Teaching
+title: Projects
 permalink: /teaching/
-description: A growing collection of course materials
-nav: true
-nav_order: 3
-display_categories: [Course Staff, Student]
+description: Materials
+nav: false
+nav_order: 4
+display_categories: [Ongoing, Previous]
 horizontal: false
 ---
 
