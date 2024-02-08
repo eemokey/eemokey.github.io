@@ -17,7 +17,7 @@ Highlights can be found below
  
 See all review materials in this linked google drive <a href="https://getbootstrap.com/docs/4.4/layout/grid/">here</a>.
 
-Note: These materials were created to practice my board writing skills, taking advantage of available boards during study hangouts (when we were actually studying). I've learned the best free chalk can be found in Wheeler 
+These materials were created to mainly practice my board writing skills for teaching and assist with understanding, taking advantage of available boards during study hangouts (when we were actually studying). I've learned the best free chalk can be found in Wheeler 
 
 
 <div class="row">
