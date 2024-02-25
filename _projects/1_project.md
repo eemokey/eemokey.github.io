@@ -9,15 +9,17 @@ category: Student
 
 I was a student in MCB 50: The Immune System and Disease in Spring 2019. 
 
-My favorite non-CS class
+My favorite non-CS class at Berkeley.
 
-This page contains my whiteboard and chalkboard review matieral of each module's concepts.
+This page contains my white/chalkboard review matierals of each module's concepts.
 
-Highlights can be found below
+These materials were created during study hangouts (when my friends and I were actually studying). 
+
+Highlights can be found below.
  
-See all review materials in this linked google drive <a href="https://getbootstrap.com/docs/4.4/layout/grid/">here</a>.
+See all review materials in this linked google drive <a href="https://drive.google.com/drive/folders/1EB1m1-qhh9dTWKjz0q5ejBEKUnlbGjr0?usp=sharing">here</a>.
 
-Sidenote: These materials were created to mainly practice my board writing skills for teaching and improve understanding, taking advantage of available boards during study hangouts (when we were actually studying). I've learned the best free chalk can be found in Wheeler 
+Sidenote: I've found that the best chalk can be found in Wheeler classrooms 
 
 
 <div class="row">
