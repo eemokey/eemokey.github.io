@@ -7,7 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-### Research Mentorship - Doing Cool Things with Emily
+## Research Mentorship 
+
+*Doing Cool Things with Emily*
 
 If you are a USC undergraduate, Masters’s student, or USC affiliate, please see this [project interest form](https://forms.gle/FQEM4d3LvAEPBmC79) for open positions in my ongoing projects. 
 
@@ -15,7 +17,9 @@ I encourage inquiries from students at all levels and experiences, especially th
 
 For general interest, check out our [lab-wide interest form](https://forms.gle/4dnhu7xtMZLJQHrE6). 
 
-### Research & General Guidance
+## Research & General Guidance
+
+*Expanding student access to research & scholarships*
 
 I'm happy to chat about anything research- or academic-related. 
 
@@ -25,10 +29,14 @@ Feel free to send me questions or relevant information in advance so I can provi
 
 If you are a UC Berkeley undergraduate, swing by my weekly drop-in office hours (listed [here](https://research.berkeley.edu/ours-peer-advisors/)). 
 
-Catch me at [Berkeley Undergrad Research](https://research.berkeley.edu/) workshops, information sessions, and campus-wide outreach events (some of my advising resources [here](https://eemokey.github.io/blog/tag/undergrad/))!
+I'm an advisor for [Berkeley Undergrad Research](https://research.berkeley.edu/).
+
+Catch me at workshops, information sessions, and campus-wide outreach events(some of my advising resources [here](https://eemokey.github.io/blog/tag/undergrad/))!
 
 
-### Google AI Community Project - Fostering curiosity & diversity in AI 
+## Google AI Community Project 
+
+*Fostering curiosity & diversity in AI* 
 
 I serve as a mentor for USC's [Google AI Community Project](https://sites.google.com/usc.edu/aicommunityproject/what-is-artificial-intelligence?authuser=0). 
 
@@ -37,13 +45,17 @@ Find us at the [LA Maker Fair](https://losangeles.makerfaire.com/maker/entry/158
 If you are interested in joining us, contact Noe Mora at nmora@usc.edu!
 
 
-### Good Life Discussions - Asking big questions in a supportive setting
+## Good Life Discussions 
+
+*Asking big questions in a safe, supportive setting*
 
 I collaborate with a philosophy PhD student to facilitate the [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/), an [Engineering in Society](https://eis.usc.edu/) project to encourage undergraduates to think more broadly about their work. 
 
 We are working on expanding this Ethos series for PhD students (coming late Spring 2024)!  
 
-### LA County Education - Engaging Girls in STEM  
+## Engaging Girls in STEM 
+
+*Empowering youth in STEM & technological careers*
 
 From 2023-2024, I was an ambassador for the [Engaging Girls in STEM](https://www.engaginggirlsinstem.com/) program. 
 
@@ -51,7 +63,9 @@ I still occasionally assist with activities.
 
 Reach out to Anthony at Quan_Anthony@lacoe.edu to learn more.
 
-### Viterbi Impact Program - Connecting with the LA community
+## Viterbi Impact Program - 
+
+*Connecting with the LA community*
 
 For the Fall 2022 semester, I was a volunteer TA for [CS@SC](https://summercamp.usc.edu/) classes through the Viterbi Impact Program ([VIP](https://viterbiundergrad.usc.edu/involvement/viterbi-impact/)). 
 
