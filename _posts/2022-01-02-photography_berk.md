@@ -5,7 +5,7 @@ date: 2023-10-30 17:39:00
 description: 
 redirect: /assets/pdf/Blog_post_my_photography.pdf
 tags:  
-categories: photography UC_Berkeley
+categories: photography 
 related_posts: true
 featured: false
 ---
