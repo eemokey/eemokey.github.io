@@ -28,7 +28,7 @@ If you are a UC Berkeley undergraduate, swing by my weekly drop-in office hours 
 Catch me at [Berkeley Undergrad Research](https://research.berkeley.edu/) workshops, information sessions, and campus-wide outreach events (some of my advising resources [here](https://eemokey.github.io/blog/tag/undergrad/))!
 
 
-## Google AI x Viterbi Community Project 
+## Google AI x Viterbi LA Community Project 
 
 I serve as a mentor for USC's [Google AI Community Project](https://sites.google.com/usc.edu/aicommunityproject/what-is-artificial-intelligence?authuser=0). 
 
