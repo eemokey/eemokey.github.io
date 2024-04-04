@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Skate by the Sea 
-date: 2023-10-31 17:39:00
+title: Skating Career Photos 
+date: 2022-03-04 17:39:00
 description: 
 redirect: /assets/pdf/Blog_Post_figure_skating.pdf
 tags:  
