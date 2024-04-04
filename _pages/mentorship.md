@@ -63,7 +63,7 @@ I still occasionally assist with activities.
 
 Reach out to Anthony at Quan_Anthony@lacoe.edu to learn more.
 
-## Viterbi Impact Program - 
+## Viterbi Impact Program  
 
 *Connecting with the LA community*
 
