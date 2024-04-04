@@ -2,7 +2,7 @@
 layout: page
 permalink: /mentorship/
 title: Mentorship & Outreach
-description: Summary of my mentorship and DEI efforts 
+description: Summary of my DEI efforts 
 nav: true
 nav_order: 5
 ---
