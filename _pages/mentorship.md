@@ -25,7 +25,7 @@ Feel free to send me questions or relevant information in advance so I can provi
 
 If you are a UC Berkeley undergraduate, swing by my weekly drop-in office hours (listed [here](https://research.berkeley.edu/ours-peer-advisors/)). 
 
-Catch me at Berkeley [Office of Undergraduate Research & Scholarships](https://research.berkeley.edu/) workshops, information sessions, and campus-wide outreach events (some of my advising resources [here](https://eemokey.github.io/blog/tag/undergrad/))!
+Catch me at [Berkeley Undergrad Research](https://research.berkeley.edu/) workshops, information sessions, and campus-wide outreach events (some of my advising resources [here](https://eemokey.github.io/blog/tag/undergrad/))!
 
 
 ## Google AI Community Project 
