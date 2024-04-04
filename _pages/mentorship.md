@@ -28,7 +28,7 @@ If you are a UC Berkeley undergraduate, swing by my weekly drop-in office hours 
 Catch me at [Berkeley Undergrad Research](https://research.berkeley.edu/) workshops, information sessions, and campus-wide outreach events (some of my advising resources [here](https://eemokey.github.io/blog/tag/undergrad/))!
 
 
-### Google AI x Viterbi LA Community Project - Fostering curiosity and diversity in AI 
+### Google AI Community Project - Fostering curiosity & diversity in AI 
 
 I serve as a mentor for USC's [Google AI Community Project](https://sites.google.com/usc.edu/aicommunityproject/what-is-artificial-intelligence?authuser=0). 
 
@@ -37,7 +37,7 @@ Find us at the [LA Maker Fair](https://losangeles.makerfaire.com/maker/entry/158
 If you are interested in joining us, contact Noe Mora at nmora@usc.edu!
 
 
-### Good Life Discussions - Asking big questions in a safe, supportive setting
+### Good Life Discussions - Asking big questions in a supportive setting
 
 I collaborate with a philosophy PhD student to facilitate the [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/), an [Engineering in Society](https://eis.usc.edu/) project to encourage undergraduates to think more broadly about their work. 
 
