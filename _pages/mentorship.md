@@ -23,9 +23,9 @@ Just send me an email to arrange a meeting time!
 
 Feel free to send me questions or relevant information in advance so I can provide the best guidance. 
 
-If you are a UC Berkeley undergraduate, swing by my weekly drop-in office hours (listed [here](https://research.berkeley.edu/ours-peer-advisors/)). These office hours are part of my role as an advisor for the Office of Undergraduate Research & Scholarships ([OURS](https://research.berkeley.edu/)) - 3 years and counting! 
+If you are a UC Berkeley undergraduate, swing by my weekly drop-in office hours (listed [here](https://research.berkeley.edu/ours-peer-advisors/)). 
 
-Catch me at Berkeley OURS workshops, information sessions, and campus-wide outreach events (some of my advising resources [here](https://eemokey.github.io/blog/tag/undergrad/))!
+Catch me at Berkeley [Office of Undergraduate Research & Scholarships](https://research.berkeley.edu/) workshops, information sessions, and campus-wide outreach events (some of my advising resources [here](https://eemokey.github.io/blog/tag/undergrad/))!
 
 
 ## Google AI Community Project 
@@ -39,7 +39,7 @@ If you are interested in joining us, contact Noe Mora at nmora@usc.edu!
 
 ## Ethos Project: Good Life Discussions
 
-As the engineering facilitator, I collaborate with a philosophy PhD student to lead the [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/), a discussion series for engineering undergraduates to think more broadly about the social and ethical implications of their work. 
+As the engineering facilitator, I collaborate with a philosophy PhD student to lead the [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/), a discussion series for undergraduates to think more broadly about their work. 
 
 We are working on expanding this series for PhD students (coming late Spring 2024)!  
 
