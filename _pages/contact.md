@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 description:  
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 ## Contact Information
 
@@ -17,10 +17,5 @@ emilysk8nguyen@berkeley.edu
 
 
 
-## Doing Cool Things with Emily
-
-**USC undergraduates, Masters’s students, USC affiliates** 
-
-Please see this [research interest form](https://forms.gle/FQEM4d3LvAEPBmC79). I encourage inquiries from students at all levels and experiences. 
 
 

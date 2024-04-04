@@ -1,15 +1,16 @@
 ---
 layout: page
 permalink: /projects/
-title: Teaching
-description: A growing collection of course materials
+title: Teaching & Mentoring
+description: A growing collection of educational materials
 nav: true
 nav_order: 3
 display_categories: [Course Staff, Student]
 horizontal: false
 ---
 
-Currently Under Construction :) 
+
+This page is currently Under Construction :) 
 
 
 <!-- pages/projects.md -->
