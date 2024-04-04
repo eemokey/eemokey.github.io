@@ -269,7 +269,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: [ 'undergrad', 'graduate'] # these tags will be displayed on the front page of your blog
-display_categories: ['reflection', 'figure_skating','photography'] # these categories will be displayed on the front page of your blog
+display_categories: ['reflections', 'figure_skating','photography'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

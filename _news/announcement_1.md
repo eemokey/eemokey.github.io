@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-It is an honor to be a recipient of the [NSF GRFP](https://viterbischool.usc.edu/news/2023/07/usc-computer-science-students-awarded-nsf-graduate-research-fellowships/).
+It is an honor to be a recipient of the [NSF GRFP](https://viterbischool.usc.edu/news/2023/07/usc-computer-science-students-awarded-nsf-graduate-research-fellowships/)

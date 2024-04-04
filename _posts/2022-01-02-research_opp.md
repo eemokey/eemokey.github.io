@@ -5,7 +5,7 @@ date: 2022-03-05 17:39:00
 description: 
 redirect: /assets/pdf/Blog_Post_research_opportunities.pdf
 tags: undergrad 
-categories:  reflection
+categories:  reflections
 related_posts: true
 featured: false
 ---
