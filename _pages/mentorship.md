@@ -25,11 +25,9 @@ I'm happy to chat about anything research- or academic-related.
 
 Just send me an email to arrange a meeting time!
 
-Feel free to send me questions or relevant information in advance so I can provide the best guidance. 
-
 If you are a UC Berkeley undergraduate, swing by my weekly drop-in office hours (listed [here](https://research.berkeley.edu/ours-peer-advisors/)). 
 
-I'm an advisor for the [Berkeley Undergraduate Research](https://research.berkeley.edu/).
+I'm an advisor for [Berkeley Undergraduate Research](https://research.berkeley.edu/).
 
 Catch me at workshops, information sessions, and campus-wide outreach events (some of my advising resources [here](https://eemokey.github.io/blog/tag/undergrad/))!
 
