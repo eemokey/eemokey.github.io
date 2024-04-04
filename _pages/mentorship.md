@@ -7,36 +7,52 @@ nav: true
 nav_order: 5
 ---
 
-# Mentorship 
-
-
-
 ## Research Mentorship
 
-### USC undergraduates, Masters’s students, USC affiliates
-
-Please see this [project interest form](https://forms.gle/FQEM4d3LvAEPBmC79) for open positions in my ongoing projects. 
+If you are a USC undergraduate, Masters’s student, or USC affiliate, please see this [project interest form](https://forms.gle/FQEM4d3LvAEPBmC79) for open positions in my ongoing projects. 
 
 I encourage inquiries from students at all levels and experiences, especially those from underrepresented communities.
 
-For general interest, Check out our [lab-wide interest form](https://forms.gle/4dnhu7xtMZLJQHrE6). 
+For general interest, check out our [lab-wide interest form](https://forms.gle/4dnhu7xtMZLJQHrE6). 
 
 ## Research & General Guidance
 
-### UC Berkeley undergraduates, visiting students
-
 I'm happy to chat about anything research- or academic-related. 
 
-Swing by my drop-in office hours (listed [here](https://research.berkeley.edu/ours-peer-advisors/)) or schedule a virtual appointment with me via email. 
+Just send me an email to arrange a meeting time!
 
-Feel free to send me questions or information in advance that you think may be helpful so I can provide the best guidance. 
+Feel free to send me questions or relevant information in advance so I can provide the best guidance. 
+
+If you are a UC Berkeley undergraduate, swing by my weekly drop-in office hours (listed [here](https://research.berkeley.edu/ours-peer-advisors/)). These office hours are part of my role as an advisor for the Office of Undergraduate Research & Scholarships ([OURS](https://research.berkeley.edu/)) - 3 years and counting! 
+
+Catch me at Berkeley OURS workshops, information sessions, and campus-wide outreach events (some of my advising resources [here](https://eemokey.github.io/blog/tag/undergrad/))!
 
 
-# Outreach
+## Google AI Community Project 
 
-# Google AI Community Project
+I serve as a mentor for USC's [Google AI Community Project](https://sites.google.com/usc.edu/aicommunityproject/what-is-artificial-intelligence?authuser=0). 
+
+Find us at the LA Maker Fair, Black College Success STEAM Academy AI workshop series, and other LA community events! 
+
+If you are interested in joining us, contact Noe Mora at nmora@usc.edu!
 
 
-# Ethos Project Good Life Discussions
+## Ethos Project: Good Life Discussions
 
-# Engaging Girls in STEM 
+As the engineering facilitator, I collaborate with a philosophy PhD student to lead the [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/), a discussion series for engineering undergraduates to think more broadly about the social and ethical implications of their work. 
+
+We are working on expanding this series for PhD students (coming late Spring 2024)!  
+
+## Engaging Girls in STEM with LA County Office of Education
+
+From 2023-2024, I was an ambassador for the [Engaging Girls in STEM](https://www.engaginggirlsinstem.com/) program. 
+
+I still assist with activities occasionally. 
+
+Reach out to Anthony at Quan_Anthony@lacoe.edu to learn more.
+
+## Viterbi Impact Program - Connecting Students with the LA Community
+
+For the Fall 2022 semester, I was a volunteer TA for [CS@SC](https://summercamp.usc.edu/) classes through the Viterbi Impact Program ([VIP](https://viterbiundergrad.usc.edu/involvement/viterbi-impact/)). 
+
+There are also many other service learning opportunities in VIP!
