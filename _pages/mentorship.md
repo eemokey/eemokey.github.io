@@ -2,12 +2,11 @@
 layout: page
 permalink: /mentorship/
 title: Mentorship & Outreach
-description: Summary of my DEI efforts 
+description: In light of my efforts, I am grateful to be a recipient of the USC Viterbi Undergraduate Research Mentoring Award and EiS Excellence in Science Communication for Social Good Award. 
 nav: true
 nav_order: 5
 ---
 
-In light of my efforts, I am grateful to be a recipient of the USC Viterbi Undergraduate Research Mentoring Award and EiS Excellence in Science Communication for Social Good Award.
 
 ## Research Mentorship 
 
