@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Excited to join the [Collins lab](https://www.collinslab.mit.edu/) as an Intern at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/)!  
+Grateful to be a recipient of the 2024 Undergraduate Research Mentoring Award
+& EiS Excellence in Science Communication for Social Good Award
