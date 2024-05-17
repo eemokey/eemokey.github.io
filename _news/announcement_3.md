@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Local news highlighting my work [(article)](https://spectrumnews1.com/ca/la-west/education/2023/06/06/usc-invests--1-billion-into-advancing-computing-research--curriculum)
+Local news highlighting [our work](https://spectrumnews1.com/ca/la-west/education/2023/06/06/usc-invests--1-billion-into-advancing-computing-research--curriculum)
