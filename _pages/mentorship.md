@@ -7,6 +7,8 @@ nav: true
 nav_order: 5
 ---
 
+In light of my efforts, I am grateful to be a recipient of the USC Viterbi Undergraduate Research Mentoring Award and EiS Excellence in Science Communication for Social Good Award.
+
 ## Research Mentorship 
 
 *Doing Cool Things with Emily*
@@ -17,39 +19,37 @@ I encourage inquiries from students at all levels and experiences, especially th
 
 For general interest, check out our [lab-wide interest form](https://forms.gle/4dnhu7xtMZLJQHrE6). 
 
-## Research & General Guidance
-
-*Expanding student access to research & scholarships*
-
-I'm happy to chat about anything research- or academic-related. 
-
-Just send me an email to arrange a meeting time!
-
-If you are a UC Berkeley undergraduate, feel free to swing by my weekly drop-in office hours (listed [here](https://research.berkeley.edu/ours-peer-advisors/)). 
-
-I'm an advisor for [Berkeley Undergraduate Research](https://research.berkeley.edu/).
-
-Catch me at workshops, information sessions, and campus-wide outreach events (some of my advising resources [here](https://eemokey.github.io/blog/tag/undergrad/))!
-
 
 ## Google AI Community Project 
 
 *Fostering curiosity & diversity in AI* 
 
-I serve as a mentor for USC's [Google AI Community Project](https://sites.google.com/usc.edu/aicommunityproject/what-is-artificial-intelligence?authuser=0). 
+I serve as a mentor for USC's [Google AI Community Project](https://viterbik12.usc.edu/ai-community-project/) and advisory board member for [K-12 STEM Center AI initiatve](https://viterbik12.usc.edu/ai-initiative/).
 
 Find us at the [LA Maker Fair](https://losangeles.makerfaire.com/maker/entry/1586/), Black College Success STEAM Academy workshop series, Crenshaw YMCA Middle School workshop, and other LA community events! 
 
-If you are interested in joining us, contact Noe Mora at nmora@usc.edu!
+If you are interested in learning more, contact Noe Mora at nmora@usc.edu!
 
 
 ## Good Life Discussions 
 
 *Asking big questions in a safe, supportive setting*
 
-I collaborate with a philosophy PhD student to facilitate the [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/), an [Engineering in Society](https://eis.usc.edu/) project to encourage undergraduates to think more broadly about their work. 
+I'm one of two graduate facilitators for the [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/) by [Engineering in Society](https://eis.usc.edu/). 
 
-We are working on expanding this Ethos series for PhD students (coming late Spring 2024)!  
+We are expanding this series to more undergraduate and PhD students!
+
+
+## Research & General Guidance
+
+*Exploring research & scholarship*
+
+I'm happy to chat about anything research- or academic-related. 
+
+If you are a UC Berkeley undergraduate, feel free to swing by my weekly advising drop-in office hours (listed [here](https://research.berkeley.edu/ours-peer-advisors/)) or post on Ed [OURS 101](https://edstem.org/us/join/FyC6t6). 
+
+I'm an advisor for [Berkeley Undergraduate Research](https://research.berkeley.edu/).
+
 
 ## Engaging Girls in STEM 
 
@@ -60,11 +60,3 @@ From 2023-2024, I was an ambassador for the [Engaging Girls in STEM](https://www
 I still occasionally assist with activities. 
 
 Reach out to Anthony at Quan_Anthony@lacoe.edu to learn more.
-
-## Viterbi Impact Program  
-
-*Connecting with the LA community*
-
-For the Fall 2022 semester, I was a volunteer TA for [CS@SC](https://summercamp.usc.edu/) classes through the Viterbi Impact Program ([VIP](https://viterbiundergrad.usc.edu/involvement/viterbi-impact/)). 
-
-There are also many other service learning opportunities in VIP!
