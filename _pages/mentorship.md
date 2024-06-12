@@ -2,7 +2,7 @@
 layout: page
 permalink: /mentorship/
 title: Mentorship & Outreach
-description: In light of my efforts, I am grateful to be a recipient of the USC Viterbi Undergraduate Research Mentoring Award and EiS Excellence in Science Communication for Social Good Award. 
+description: Extending gratitude to my mentors, I am honored to be a recipient of the USC Viterbi Undergraduate Research Mentoring Award and EiS Excellence in Science Communication for Social Good Award. 
 nav: true
 nav_order: 5
 ---
@@ -14,7 +14,7 @@ nav_order: 5
 
 If you are a USC undergraduate, Masters’s student, or USC affiliate, please see this [project interest form](https://forms.gle/FQEM4d3LvAEPBmC79) for open positions in my ongoing projects. 
 
-I encourage inquiries from students at all levels and experiences, especially those from underrepresented communities.
+I encourage inquiries from students at all levels.
 
 For general interest, check out our [lab-wide interest form](https://forms.gle/4dnhu7xtMZLJQHrE6). 
 
@@ -34,7 +34,7 @@ If you are interested in learning more, contact Noe Mora at nmora@usc.edu!
 
 *Asking big questions in a safe, supportive setting*
 
-I'm one of two graduate facilitators for the [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/) by [Engineering in Society](https://eis.usc.edu/). 
+I'm a graduate facilitator for the [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/) by [Engineering in Society](https://eis.usc.edu/). 
 
 We are expanding this series to more undergraduate and PhD students!
 
@@ -45,9 +45,8 @@ We are expanding this series to more undergraduate and PhD students!
 
 I'm happy to chat about anything research- or academic-related. 
 
-If you are a UC Berkeley undergraduate, feel free to swing by my weekly advising drop-in office hours (listed [here](https://research.berkeley.edu/ours-peer-advisors/)) or post on Ed [OURS 101](https://edstem.org/us/join/FyC6t6). 
 
-I'm an advisor for [Berkeley Undergraduate Research](https://research.berkeley.edu/).
+If you are a UC Berkeley undergraduate, feel free to swing by my weekly advising drop-in office hours for [Berkeley Undergraduate Research](https://research.berkeley.edu/) (listed [here](https://research.berkeley.edu/ours-peer-advisors/)) or post on Ed [OURS 101](https://edstem.org/us/join/FyC6t6). 
 
 
 ## Engaging Girls in STEM 
