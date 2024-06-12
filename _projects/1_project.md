@@ -19,8 +19,6 @@ Highlights can be found below.
  
 See all review materials in this linked google drive <a href="https://drive.google.com/drive/folders/1EB1m1-qhh9dTWKjz0q5ejBEKUnlbGjr0?usp=sharing">here</a>.
 
-Sidenote: I've found that the best chalk can be found in Wheeler classrooms 
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
