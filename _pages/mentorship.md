@@ -2,7 +2,7 @@
 layout: page
 permalink: /mentorship/
 title: Mentorship & Outreach
-description: Extending gratitude to my mentors, I am honored to be a recipient of the USC Viterbi Undergraduate Research Mentoring Award and EiS Excellence in Science Communication for Social Good Award. 
+description: In 2024, I was honored to be a recipient of the USC Viterbi Undergraduate Research Mentoring Award and EiS Excellence in Science Communication for Social Good Award. 
 nav: true
 nav_order: 5
 ---
@@ -16,32 +16,30 @@ If you are a USC undergraduate, Masters’s student, or USC affiliate, please se
 
 I encourage inquiries from students at all levels.
 
-For general interest, check out our [lab-wide interest form](https://forms.gle/4dnhu7xtMZLJQHrE6). 
-
-
-## Google AI Community Project 
-
-*Fostering curiosity & diversity in AI* 
-
-I serve as a mentor for USC's [Google AI Community Project](https://viterbik12.usc.edu/ai-community-project/) and advisory board member for [K-12 STEM Center AI initiatve](https://viterbik12.usc.edu/ai-initiative/).
-
-Find us at the [LA Maker Fair](https://losangeles.makerfaire.com/maker/entry/1586/), Black College Success STEAM Academy workshop series, Crenshaw YMCA Middle School workshop, and other LA community events! 
-
-If you are interested in learning more, contact Noe Mora at nmora@usc.edu!
+For general interest, check out our [Melady lab-wide interest form](https://forms.gle/4dnhu7xtMZLJQHrE6). 
 
 
 ## Good Life Discussions 
 
 *Asking big questions in a safe, supportive setting*
 
-I'm a graduate facilitator for the [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/) by [Engineering in Society](https://eis.usc.edu/). 
+I co-facilitate the [Engineering in Society](https://eis.usc.edu/) [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/) with a Philosphy PhD candidate. 
 
 We are expanding this series to more undergraduate and PhD students!
 
 
+## Google AI Community Project 
+
+*Fostering curiosity & diversity in AI* 
+
+I served as a mentor for USC's [Google AI Community Project](https://viterbik12.usc.edu/ai-community-project/) and advisory board member for [K-12 STEM Center AI initiatve](https://viterbik12.usc.edu/ai-initiative/) in Spring 2024.
+
+We designed and fasciliated learning activities at the [LA Maker Fair](https://losangeles.makerfaire.com/maker/entry/1586/), Black College Success STEAM Academy workshop series, Crenshaw YMCA Middle School workshop, and other LA community events! 
+
+
 ## Research & General Guidance
 
-*Exploring research & scholarship*
+*Exploring research & scholarships*
 
 I'm happy to chat about anything research- or academic-related. 
 

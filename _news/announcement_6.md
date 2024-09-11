@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-01 07:59:00-0400
+date: 2024-08-26 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Excited to join the [Collins lab](https://www.collinslab.mit.edu/) as an Intern at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/)!  
+Excited to be part of [this short film](https://vimeo.com/973150349?share=copy) by USC about the Good Life Discussions!  
