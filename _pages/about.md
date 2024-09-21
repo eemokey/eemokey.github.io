@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Emily. I am a third-year PhD student at the [Melady Lab](https://melady.usc.edu/) in the [Thomas Lord Computer Science Department](https://www.cs.usc.edu/) at the [University of Southern California](https://www.usc.edu/). I am fortunate to be advised by [Professor Yan Liu](https://viterbi.usc.edu/directory/faculty/Liu/Yan) and supported by the [NSF GRFP](https://www.nsfgrfp.org/). I'm also working with [Professor James Collins](https://www.collinslab.mit.edu/) at the [Broad Institue of MIT and Harvard](https://www.broadinstitute.org/). 
+Hello, I'm Emily. I am a third-year PhD student at the [Melady Lab](https://melady.usc.edu/) in the [Thomas Lord Computer Science Department](https://www.cs.usc.edu/) at the [University of Southern California](https://www.usc.edu/). I am fortunate to be advised by [Professor Yan Liu](https://viterbi.usc.edu/directory/faculty/Liu/Yan) and supported by the [NSF GRFP](https://www.nsfgrfp.org/). I'm also working with [Professor James Collins](https://www.collinslab.mit.edu/) in the [Infectious Disease and Microbiome Program](https://www.broadinstitute.org/infectious-disease-microbiome) at the [Broad Institue of MIT and Harvard](https://www.broadinstitute.org/). 
 
 Broadly, I'm interested in building machine learning systems for the real-world with applications to biology, healthcare, and sustainability. My research interests lie in multimodal deep learning, interpretability and explainability, and generative AI. 
 
