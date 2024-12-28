@@ -7,13 +7,11 @@ importance: 1
 category: Student
 ---
 
-I was a student in MCB 50: The Immune System and Disease in Spring 2019. 
+I was a freshman student in MCB 50: The Immune System and Disease in Spring 2019. 
 
 My favorite non-CS class at Berkeley.
 
 This page contains my white/chalkboard review matierals of each module's concepts.
-
-These materials were created during study hangouts (when my friends and I were actually studying). 
 
 Highlights can be found below.
  
