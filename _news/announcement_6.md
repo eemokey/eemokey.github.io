@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to join to the (Broad Institute of MIT and Harvard)[https://www.broadinstitute.org/] under Prof. Jim Collins!
+Excited to join to the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) under [Prof. Jim Collins](https://www.collinslab.mit.edu/lab-members)!
