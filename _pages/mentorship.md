@@ -2,7 +2,7 @@
 layout: page
 permalink: /mentorship/
 title: Mentorship & Outreach
-description: In 2024, I was honored to be a recipient of the USC Viterbi Undergraduate Research Mentoring Award and EiS Excellence in Science Communication for Social Good Award. 
+description: In 2024, I was honored to be a recipient of the USC Viterbi Undergraduate Mentoring Award and EiS Excellence in Science Communication for Social Good Award. 
 nav: true
 nav_order: 5
 ---
