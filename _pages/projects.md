@@ -1,11 +1,11 @@
 ---
 layout: page
 permalink: /projects/
-title: Teaching 
+title: Teaching Projects
 description: A growing collection of educational materials
 nav: true
 nav_order: 3
-display_categories: [Course Staff, Student]
+display_categories: [Teaching Resources, Student Resources]
 horizontal: false
 ---
 

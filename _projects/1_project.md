@@ -4,7 +4,7 @@ title: MCB 50
 description: Immunity and Disease (Spring 2019)
 img: assets/img/mcb_50_cover.png
 importance: 1
-category: Student
+category: Student Resources
 ---
 
 I was a freshman student in MCB 50: The Immune System and Disease in Spring 2019. 
