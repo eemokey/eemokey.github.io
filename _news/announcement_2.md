@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-The first paper of my PhD was accepted to [AMIA](https://amia.org/education-events/amia-2023-annual-symposium)!
+First paper of my PhD on Multimodal Deep Learning was accepted to [AMIA](https://amia.org/education-events/amia-2023-annual-symposium)!
 

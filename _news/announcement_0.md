@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started by PhD at USC! Fortunate to be mentored by [Prof. Yan Liu](https://viterbi.usc.edu/directory/faculty/Liu/Yan)!
+Started my PhD at USC! Fortunate to be mentored by [Prof. Yan Liu](https://viterbi.usc.edu/directory/faculty/Liu/Yan)!
