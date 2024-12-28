@@ -35,7 +35,7 @@ Catch us at future LA community events!
 
 I co-facilitated the [Engineering in Society](https://eis.usc.edu/) [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/) with a Philosphy PhD candidate as part of the [Ethos Project](https://stem-ed.usc.edu/our-research/eerp/ethos-project/) from 2023-24.
 
-Watch a [short film](https://www.youtube.com/watch?v=nKCQQoCenC8) about us by director Daniel Druhora!
+Watch a [short film](https://vimeo.com/973150349?share=copy) about us by director Daniel Druhora!
 
 
 ## Research & General Guidance
