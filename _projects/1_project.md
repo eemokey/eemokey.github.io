@@ -7,7 +7,7 @@ importance: 1
 category: Student Resources
 ---
 
-I was a freshman student in MCB 50: The Immune System and Disease in Spring 2019. 
+I was a freshman student in MCB 50: The Immune System and Disease. 
 
 My favorite non-CS class at Berkeley.
 
