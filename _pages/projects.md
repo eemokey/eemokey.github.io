@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: Teaching Projects
+title: Teaching
 description: A growing collection of educational materials
 nav: true
 nav_order: 3
