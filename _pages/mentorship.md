@@ -49,10 +49,10 @@ If you are a UC Berkeley undergraduate, feel free to swing by my weekly advising
 
 
 
-## Engaging Girls in STEM 
+<!-- ## Engaging Girls in STEM 
 
 *Empowering youth in STEM & technological careers*
 
 From 2023-2024, I was an ambassador for the [Engaging Girls in STEM](https://www.engaginggirlsinstem.com/) program. 
 
-Reach out to Anthony at Quan_Anthony@lacoe.edu to learn more.
+Reach out to Anthony at Quan_Anthony@lacoe.edu to learn more. -->
