@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to be part of [this short film](https://vimeo.com/973150349?share=copy) by USC about the Good Life Discussions!  
+Excited to be part of [this short film](https://vimeo.com/973150349?share=copy) by USC about our Good Life Discussions!  
