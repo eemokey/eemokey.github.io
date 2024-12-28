@@ -2,7 +2,9 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>(she/her/hers)</a> emilyn98@usc.edu
+subtitle: Doctoral Researcher @ USC/Broad Institute - CS B.A. @ UC Berkeley
+
+#(previous header) <a href='#'>(she/her/hers)</a> emilyn98@usc.edu
 
 profile:
   align: right
@@ -26,4 +28,4 @@ Prior to this, I completed my undergraduate degree in [Computer Science](https:/
 Beyond my academic pursuits, I'm deeply interested and active in computer science education and community service. I have taught in six Berkeley CS courses and faciliated the USC [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/). Currently, I'm a mentor for the [Google AI Community Project](https://viterbik12.usc.edu/ai-community-project/) at USC, which aims to build mentorship pathways for marginalized communities and foster the curiosity of LA youth about AI. More of my activities can be found in the [Mentorship and Outreach tab](https://eemokey.github.io/mentorship/)! I also enjoy [figure skating](https://eemokey.github.io/blog/category/figure-skating/) and [sunset walks around campus](https://eemokey.github.io/blog/category/photography/)!
 
 
-I welcome all efforts to [get in touch with me](https://eemokey.github.io/contact/).
+I welcome all efforts to [get in touch with me](https://eemokey.github.io/contact/) (emilyn98 [at] usc [dot] edu).
