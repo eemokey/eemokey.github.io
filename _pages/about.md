@@ -29,4 +29,5 @@ Beyond my academic pursuits, I'm deeply interested and active in computer scienc
 
 
 I welcome all efforts to [get in touch with me](https://eemokey.github.io/contact/)
+
 emilyn98 [at] usc [dot] edu
