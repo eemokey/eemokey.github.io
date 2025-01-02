@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Doctoral Researcher @ USC/Broad Institute - CS B.A. @ UC Berkeley
+subtitle: Doctoral Researcher @ USC - CS B.A. @ UC Berkeley
 
 #(previous header) <a href='#'>(she/her/hers)</a> emilyn98@usc.edu
 
