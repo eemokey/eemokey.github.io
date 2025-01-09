@@ -10,6 +10,29 @@ horizontal: false
 ---
 
 
+### USC
+
+TA / Pedagogy
+
+* CSCI 401: Capstone: Design and Construction of Large Software Systems (Fall 2024)
+* Future Faculty Teaching Institute Certification from Center for Excellence in Teaching (Fall 2023)
+* CS@SC: Scratch (Fall 2022)
+
+### UC Berkeley 
+
+TA
+* CS131: Computational Models of Cognition (Spring 2022)
+
+Junior TA / Tutor
+* Data100: Principles and Techniques of Data Science (Fall 2021)
+* CS370:  Adaptive Instruction Methods in Computer Science (Spring 2021)
+* CS61C: Machine Structures (Fall 2020)
+* CS61B: Data Structures (Spring 2020)
+* CS61A: Structure and Interpretation of Computer Programs (Fall 2019)
+* Data8: Foundations of Data Science (Spring 2019)
+
+
+
 This page is currently Under Construction :) 
 
 
