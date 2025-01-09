@@ -9,6 +9,7 @@ display_categories: [Teaching Resources, Student Resources]
 horizontal: false
 ---
 
+This page is currently Under Construction :) 
 
 ### USC
 
@@ -33,7 +34,6 @@ Junior TA / Tutor
 
 
 
-This page is currently Under Construction :) 
 
 
 <!-- pages/projects.md -->
