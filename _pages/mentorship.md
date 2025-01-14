@@ -44,9 +44,9 @@ Watch a [short film](https://vimeo.com/973150349?share=copy) about us by directo
 
 I'm happy to chat about anything research- or academic-related. 
 
+I was an advisor for [Berkeley Undergraduate Research](https://research.berkeley.edu/) from 2021-25. 
 
-If you are a UC Berkeley undergraduate, feel free to swing by my weekly advising drop-in office hours for [Berkeley Undergraduate Research](https://research.berkeley.edu/) (listed [here](https://research.berkeley.edu/ours-peer-advisors/)) or post on Ed [OURS 101](https://edstem.org/us/join/FyC6t6). 
-
+If you are a UC Berkeley undergraduate, feel free to view my previous FAQs reponses on Ed [OURS 101](https://edstem.org/us/join/FyC6t6). 
 
 
 <!-- ## Engaging Girls in STEM 
