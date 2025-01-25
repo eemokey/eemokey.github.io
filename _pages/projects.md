@@ -15,7 +15,7 @@ This page is currently Under Construction :)
 
 TA / Pedagogy
 
-* CSCI 401: Capstone: Design and Construction of Large Software Systems (Fall 2024)
+* CS401: Capstone: Design and Construction of Large Software Systems (Fall 2024)
 * Future Faculty Teaching Institute Certification from Center for Excellence in Teaching (Fall 2023)
 * CS@SC: Scratch (Fall 2022)
 
