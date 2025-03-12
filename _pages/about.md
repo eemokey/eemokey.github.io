@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Doctoral Researcher @ USC - CS B.A. @ UC Berkeley
+subtitle: PhD Student @ USC - CS B.A. @ UC Berkeley
 
 #(previous header) <a href='#'>(she/her/hers)</a> emilyn98@usc.edu
 
@@ -25,7 +25,7 @@ Broadly, I'm interested in building machine learning systems for the real-world 
 
 Prior to this, I completed my undergraduate degree in [Computer Science](https://eecs.berkeley.edu/academics/undergraduate/cs-ba) with honors at [UC Berkeley](https://www.berkeley.edu/). While at Berkeley, I was an undergrad researcher at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) and [UCSF](https://www.ucsf.edu/), advised by Drs. [Kristofer Bouchard](https://bouchardlab.lbl.gov/) and [Roy Ben-Shalom](https://roybens.faculty.ucdavis.edu/), respectively. 
 
-Beyond my academic pursuits, I'm deeply interested and active in computer science education and community service. I have taught in six Berkeley CS courses and faciliated the USC [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/). Currently, I'm a mentor for the [Google AI Community Project](https://viterbik12.usc.edu/ai-community-project/) at USC, which aims to foster the curiosity of LA youth about AI. More of my activities can be found in the [Mentorship and Outreach tab](https://eemokey.github.io/mentorship/)! I also enjoy [figure skating](https://eemokey.github.io/blog/category/figure-skating/) and [sunset walks around campus](https://eemokey.github.io/blog/category/photography/)!
+Beyond my academic pursuits, I'm deeply interested and active in computer science education and community service. I have taught in six Berkeley CS courses and faciliated the USC [Good Life Discussions](https://stem-ed.usc.edu/our-research/eerp/ethos-project/). Currently, I'm a mentor for the [Google AI Community Project](https://viterbik12.usc.edu/ai-community-project/) at USC, where we guide URM undergraduates in fostering understanding of AI within the broader campus community. More of my activities can be found in the [Mentorship and Outreach tab](https://eemokey.github.io/mentorship/)! I also enjoy [figure skating](https://eemokey.github.io/blog/category/figure-skating/) and [sunset walks around campus](https://eemokey.github.io/blog/category/photography/)!
 
 
 I welcome all efforts to [get in touch with me](https://eemokey.github.io/contact/)
