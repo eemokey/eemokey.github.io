@@ -34,7 +34,7 @@ emilyn98 [at] usc [dot] edu
 
 ### Research Interests 
 
-<!-- * AI: multimodal deep learning, interpretability, transfer learning, generative AI
+* AI: multimodal deep learning, interpretability, transfer learning, generative AI
 * Healthcare Delivery: clinician decision support, precision medicine, drug interactions and discovery
 * Biophysics/Structural Biology: virtual screening, molecular docking, neuronal modeling
-* Computer Vision: digital pathology, pose estimation, behavior quantification -->
+* Computer Vision: digital pathology, pose estimation, behavior quantification
