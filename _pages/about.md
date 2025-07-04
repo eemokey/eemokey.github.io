@@ -32,9 +32,9 @@ I welcome all efforts to [get in touch with me](https://eemokey.github.io/contac
 
 emilyn98 [at] usc [dot] edu
 
-### Research Interests 
+### research interests 
 
-* AI: multimodal deep learning, interpretability, transfer learning, generative AI
-* Healthcare Delivery: clinician decision support, precision medicine, drug interactions and discovery
-* Biophysics/Structural Biology: virtual screening, molecular docking, neuronal modeling
-* Computer Vision: digital pathology, pose estimation, behavior quantification
+* **AI:** multimodal deep learning, interpretability, transfer learning, generative AI
+* **Healthcare Delivery:** clinician decision support, precision medicine, drug interactions & discovery
+* **Biophysics/Structural Biology:** virtual screening, molecular docking, neuronal modeling
+* **Computer Vision:** digital pathology, pose estimation, behavior quantification
