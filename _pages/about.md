@@ -38,7 +38,3 @@ emilyn98 [at] usc [dot] edu
 * Healthcare Delivery: clinician decision support, precision medicine, drug interactions and discovery
 * Biophysics/Structural Biology: virtual screening, molecular docking, neuronal modeling
 * Computer Vision: digital pathology, pose estimation, behavior quantification
-
-
-
-<!-- Broadly, I’m interested in building machine learning systems for the real-world with applications to biology, healthcare, and sustainability. Specifically, my research interests lie in multimodal deep learning, interpretability and explainability, and generative AI. I’m currently excited about integrating foundation models with domain knowledge for drug discovery. -->
