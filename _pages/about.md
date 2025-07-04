@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hello, I'm Emily. I am a PhD student at the [Melady Lab](https://melady.usc.edu/) in the [Computer Science Department](https://www.cs.usc.edu/) at the [University of Southern California](https://www.usc.edu/). I am fortunate to be advised by [Professor Yan Liu](https://viterbi.usc.edu/directory/faculty/Liu/Yan) and supported by the [NSF GRFP](https://www.nsfgrfp.org/). I'm also working with [Professor James Collins](https://www.collinslab.mit.edu/) in the [Infectious Disease and Microbiome Program](https://www.broadinstitute.org/infectious-disease-microbiome) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/). 
 
-Broadly, I'm interested in building machine learning systems for the real-world with applications to biology, healthcare, and sustainability. Specifically, my research interests lie in multimodal deep learning, interpretability and explainability, and generative AI. I'm currently excited about integrating foundation models with domain knowledge for drug discovery.
+Broadly, [my research](https://eemokey.github.io/publications/) asks: How can AI systems advance human health? To this end, I focus on building multimodal intelligence that can leverage diverse biological data (molecular, genetic, patient records) to improve therapeutic strategies. My work rethinks critical healthcare challenges, from diagnosing diseases to creating new drugs, as problems that AI can effectively help address.
 
 Prior to this, I completed my undergraduate degree in [Computer Science](https://eecs.berkeley.edu/academics/undergraduate/cs-ba) with honors at [UC Berkeley](https://www.berkeley.edu/). While at Berkeley, I was an undergrad researcher under the mentorship of Drs. [Kristofer Bouchard](https://bouchardlab.lbl.gov/) at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/) and [Roy Ben-Shalom](https://roybens.faculty.ucdavis.edu/).
 
@@ -34,6 +34,11 @@ emilyn98 [at] usc [dot] edu
 
 ### Research Interests 
 
-Drug Discovery: Antibiotics, 
-Healthcare: 
-Computer Vision: Gigapixel images, pose estimation, behavior quantification
+* AI: multimodal deep learning, interpretability, transfer learning, generative AI
+* Healthcare Delivery: clinician decision support, precision medicine, drug interactions and discovery
+* Biophysics/Structural Biology: virtual screening, molecular docking, neuronal modeling
+* Computer Vision: digital pathology, pose estimation, behavior quantification
+
+
+
+<!-- Broadly, I’m interested in building machine learning systems for the real-world with applications to biology, healthcare, and sustainability. Specifically, my research interests lie in multimodal deep learning, interpretability and explainability, and generative AI. I’m currently excited about integrating foundation models with domain knowledge for drug discovery. -->
