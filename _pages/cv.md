@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/ENguyen_CV_pdf.pdf
+permalink: /assets/pdf/ENguyen_CV_pdfx.pdf
 title: CV
 nav: true
 nav_order: 2

@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Emily. I am a PhD student at the [Melady Lab](https://melady.usc.edu/) in the [Computer Science Department](https://www.cs.usc.edu/) at the [University of Southern California](https://www.usc.edu/). I am fortunate to be advised by [Professor Yan Liu](https://viterbi.usc.edu/directory/faculty/Liu/Yan) and supported by the [NSF GRFP](https://www.nsfgrfp.org/). I'm also working with [Professor James Collins](https://www.collinslab.mit.edu/) in the [Infectious Disease and Microbiome Program](https://www.broadinstitute.org/infectious-disease-microbiome) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/). 
+Hello, I'm Emily. I am a PhD student in the [Computer Science Department](https://www.cs.usc.edu/) at the [University of Southern California](https://www.usc.edu/). I am fortunate to be supported by the [NSF GRFP](https://www.nsfgrfp.org/). 
+
+<!-- I'm also working with [Professor James Collins](https://www.collinslab.mit.edu/) in the [Infectious Disease and Microbiome Program](https://www.broadinstitute.org/infectious-disease-microbiome) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/).  -->
 
 Broadly, [my research](https://eemokey.github.io/publications/) asks: How can AI systems advance human health? To this end, I focus on building multimodal intelligence that can leverage diverse biological data (molecular, genetic, patient records) to improve therapeutic strategies. My work rethinks critical healthcare challenges, from diagnosing diseases to creating new drugs, as problems that AI systems can effectively help address.
 

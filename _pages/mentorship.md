@@ -12,11 +12,12 @@ nav_order: 5
 
 *Doing Cool Things with Emily*
 
-If you are a USC undergraduate, masters student, or USC affiliate, please see this [project interest form](https://forms.gle/FQEM4d3LvAEPBmC79) for open positions in my ongoing projects. 
+If you are an interested USC undergraduate, masters student, or USC affiliate, please send me an email.
+
+<!-- please see this [project interest form](https://forms.gle/FQEM4d3LvAEPBmC79) for open positions in my ongoing projects.  -->
 
 I encourage inquiries from students at all levels.
 
-For general interest, check out our [Melady lab-wide interest form](https://forms.gle/4dnhu7xtMZLJQHrE6). 
 
 
 ## Google AI Community Project 
