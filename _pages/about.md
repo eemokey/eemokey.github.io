@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Emily. I am a PhD student in the [Computer Science Department](https://www.cs.usc.edu/) at the [University of Southern California](https://www.usc.edu/). I am fortunate to be supported by the [NSF GRFP](https://www.nsfgrfp.org/). 
+Hello, I'm Emily. I am a PhD student in the [Computer Science Department](https://www.cs.usc.edu/) at the [University of Southern California (USC)](https://www.usc.edu/). I am very fortunate to be co-advised by [Prof. Aiichiro Nakano](https://cacs.usc.edu/) and [Prof. Vsevolod Katritch](https://katritch.usc.edu/) and supported by the [NSF GRFP](https://www.nsfgrfp.org/). I also work with [Prof. Andreas Luttens](https://luttenslab.netlify.app/) at the [Karolinska Institute](https://ki.se/en). 
 
-<!-- I'm also working with [Professor James Collins](https://www.collinslab.mit.edu/) in the [Infectious Disease and Microbiome Program](https://www.broadinstitute.org/infectious-disease-microbiome) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/).  -->
+I had the pleasure of working with [Prof. Yan Liu](https://usc-melady.github.io/melady_website/) at USC and as a visiting scholar with [Prof. James Collins](https://www.collinslab.mit.edu/) at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/). 
 
 Broadly, [my research](https://eemokey.github.io/publications/) asks: How can AI systems advance human health? To this end, I focus on building multimodal intelligence that can leverage diverse biological data (molecular, genetic, patient records) to improve therapeutic strategies. My work rethinks critical healthcare challenges, from diagnosing diseases to creating new drugs, as problems that AI systems can effectively help address.
 
@@ -36,7 +36,7 @@ emilyn98 [at] usc [dot] edu
 
 ### research interests 
 
-* **AI:** multimodal deep learning, interpretability, transfer learning, generative AI
-* **Healthcare Delivery:** clinician decision support, precision medicine, drug interactions & discovery
-* **Biophysics/Structural Biology:** virtual screening, molecular docking, neuronal modeling
+* **AI:** multimodal learning, foundation models, knowledge distillation, interpretability
+* **Healthcare Delivery:** drug interactions & discovery, clinician decision support, precision medicine
+* **Biophysics/Structural Biology:** molecular docking, neuronal modeling
 * **Computer Vision:** digital pathology, pose estimation, behavior quantification
