@@ -3,13 +3,26 @@
 
 @string{aps = {American Physical Society,}}
 
-@article{multipathomics,
-  title={Oncology Decision Support: AI-Based Pathomics to Identify Platinum-Resistant Epithelial Ovarian Cancer},
-  author={Nguyen, Emily and Cui, Zijun and Carlson, Joseph and Liu, Yan},
-  abstract={People with ovarian cancer typically present at an advanced stage, and the standard of care is extensive surgery followed by platinum-based chemotherapy, with 95% of women receiving this regimen. This “non-individualized” approach leads to unnecessary morbidity, and poor outcomes. Patients who relapse within six months of their surgery are deemed to be “platinum-resistant ”. Thus, there is a critical need for tools that aid cancer chemotherapy selection. We propose a multimodal deep learning framework to identify people with platinum-resistant epithelial ovarian cancer. In particular, we take into account not only gigapixel histopathology images, but also patient clinical variables under a multimodal learning framework.},
-  journal={American Medical Informatics Association Symposium (AMIA)},
-  year={2024},
-  preview={wsi.gif},
+
+@article{nguyen2026glacier,
+  title={GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction},
+  author={Nguyen, Emily and Hong, Yongchan and Toshniwal, Harsh and Liu, Yan and Luttens, Andreas},
+  abstract={Deep learning models facilitate the discovery of molecules with tailored properties among billions of candidate compounds. However, the computational burden to develop and deploy state-of-the-art models continuously increases, limiting their scalability. Most large-scale models are unimodal in nature and overlook the potential to leverage complementary molecular data modalities. To address these shortcomings, this paper introduces the Graph-Language Alignment for Chemical Inference and Exploration using Representations (GLACIER) model, a student-teacher framework that integrates molecular graphs, SMILES strings, and physicochemical descriptors to learn rich molecular embeddings. Our framework consists of three stages: (1) we pretrain three student encoders on 100,000 drug-like molecules: a message-passing neural network for molecular graphs, a transformer-based encoder for SMILES strings, and a multilayer perceptron for physicochemical descriptors, (2) we fuse these student modalities using a novel Finsler geometry-aware module, and (3) distill complementary knowledge from large teacher models, including MiniMol and MolFormer, into a single lightweight model via contrastive learning. We demonstrate that GLACIER is a robust framework that delivers high predictive performance and computational efficiency in complex molecular property prediction tasks. Our code is publicly available at https://github.com/eemokey/glacier},
+  journal={Knowledge Discovery and Data Mining (KDD)},
+  html={https://arxiv.org/abs/2606.11382},
+  year={2026},
+  preview={glacier.gif},
+  selected={true}
+}
+
+@article{hong2026trustworthyproteinligandbindingaffinity,
+  title={Trustworthy Protein-Ligand Binding Affinity Prediction via Reliability-Aware Multi-Engine Fusion},
+  author={Hong, Yongchan and Cao, Defu and Liu, Wenjin and Ku, Thomas and Homing Lam, Jordy and Nguyen, Emily and Neiswanger, Willie and Katritch, Vsevolod and Liu, Yan},
+  abstract={Accurate protein-ligand binding affinity prediction is central to computational drug discovery, yet modern docking engines frequently disagree without indicating which prediction to trust. Consensus scoring and ensemble methods improve mean accuracy but treat all predictions identically without interpretable confidence measures or uncertainty decomposition, ignoring the chemical context of each protein-ligand pair. To address this limitation, we introduce RELIABLE-BA (RELIABiLity-aware Evidential fusion for Binding Affinity), an evidential framework for multi-engine binding affinity prediction. Our model comprises three steps: (1) modeling each engine as an evidential expert via Normal-Inverse-Gamma distributions, (2) scaling epistemic uncertainty through learned reliability from molecular context while preserving each expert's predictive mean, and (3) fusing experts through closed-form aggregation that captures both individual uncertainty and inter-engine disagreement. Experiments on the PDBBind and BDB2020+ benchmarks demonstrate competitive point prediction with substantially improved uncertainty calibration, and additional validation on the SARS-CoV-2 Mpro dataset and 5HT2A receptor demonstrates applicability to clinically relevant drug targets. Crucially, these uncertainty estimates enable reliable filtering of protein-ligand pairs, reducing prediction error by up to 25% when retaining only high-confidence pairs. To our knowledge, RELIABLE-BA is the first multi-engine binding affinity prediction framework to combine evidential fusion with context-dependent reliability, offering a principled path toward trustworthy AI-guided drug discovery. Our code is publicly available at https://github.com/yongchand/RELIABLE-BA},
+  journal={Knowledge Discovery and Data Mining (KDD)},
+  html={https://arxiv.org/pdf/2607.17601},
+  year={2026},
+  preview={7wc6_pymol.gif},
   selected={false}
 }
 
@@ -19,6 +32,7 @@
   author={Nguyen, Emily and Cui, Zijun and Kokaraki, Georgia and Carlson, Joseph and Liu, Yan},
   abstract={Ovarian cancer, a potentially life-threatening disease, is often difficult to treat. There is a critical need for innovations that can assist in improved therapy selection. Although deep learning models are showing promising results, they are employed as a "black-box" and require enormous amounts of data. Therefore, we explore the transferable and interpretable prediction of treatment effectiveness for ovarian cancer patients. Unlike existing works focusing on histopathology images, we propose a multimodal deep learning framework which takes into account not only large histopathology images, but also clinical variables to increase the scope of the data. The results demonstrate that the proposed models achieve high prediction accuracy and interpretability, and can also be transferred to other cancer datasets without significant loss of performance.},
   journal={American Medical Informatics Association Symposium (AMIA)},
+  html={https://pmc.ncbi.nlm.nih.gov/articles/PMC10785847/},
   year={2023},
   preview={wsi_heatmapsample2_gif.gif},
   selected={false}
