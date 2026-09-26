@@ -33,7 +33,7 @@ emilyn98 [at] usc [dot] edu
 
 ### research interests 
 
-* **AI:** multimodal learning, knowledge distillation, foundation models, agentic systems
+* **AI:** multimodal learning, knowledge distillation, geometric deep learning, foundation models, agentic systems
 * **Healthcare Delivery:** drug interactions & discovery, clinician decision support, precision medicine
 * **Biophysics/Structural Biology:** molecular docking, neuronal modeling
 * **Computer Vision:** digital pathology, pose estimation, behavior quantification
