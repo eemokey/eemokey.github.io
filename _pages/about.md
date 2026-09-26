@@ -12,7 +12,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Nice To Meet You </p> 
-    <p><i class="fa-solid fa-location-dot"></i> LA/SF/SD/Vancouver/Boston</p>
+    <p><i class="fa-solid fa-location-dot"></i> LA/SF/SD/Van/Boston</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
